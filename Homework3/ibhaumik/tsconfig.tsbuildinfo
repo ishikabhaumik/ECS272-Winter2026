@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/countrytreemap.tsx","./src/components/disciplineheatmap.tsx","./src/components/example.tsx","./src/components/medaltimeline.tsx","./src/components/notes.tsx","./src/components/noteswithreducer.tsx","./src/stores/reducer.ts","./vite.config.ts"],"version":"5.9.3"}
